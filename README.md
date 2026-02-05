@@ -19,7 +19,7 @@ Install pandas: pip install pandas
 
 Run script: python data_cleaner.py
 
-![row_data](row_data_before.png)
-![row_data](row_data_after.png)
+![row data before cleaning](row_data_before.png)
+![row data after cleaning ](row_data_after.png)
 
 
