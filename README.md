@@ -19,5 +19,5 @@ Install pandas: pip install pandas
 
 Run script: python data_cleaner.py
 
-![row_data](row_data_before.png)
+![row_data](Gem_data_clean_expor.png)
 
